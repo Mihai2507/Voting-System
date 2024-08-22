@@ -8,5 +8,5 @@ The FunnyOnlineVoting class is a fun and interactive console-based voting system
 - Provides confirmation messages for each voting action. 💬
 - User Feedback. 📢
 
-Technologies Used 🛠️
-Programming Language: Java
+# Technologies Used 🛠️
+ - Programming Language: Java
